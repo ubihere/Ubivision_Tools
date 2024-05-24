@@ -12,6 +12,7 @@ build/
 develop-eggs/
 dist/
 downloads/
+combining-vids-2.0/merged_videos/
 eggs/
 .eggs/
 lib/
